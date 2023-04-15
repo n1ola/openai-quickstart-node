@@ -64,4 +64,11 @@
 .main .result {
   font-weight: bold;
   margin-top: 40px;
+  margin-left: 10em;
+  margin-right: 10em;
+}
+
+.main .imageResult {
+  height: 256px;
+  width: 256px;
 }
